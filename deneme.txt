@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Jan  1 12:46:53 2021
+
+@author: busra
+"""
+bu bir denemedir
+1
+2
+3
+4
